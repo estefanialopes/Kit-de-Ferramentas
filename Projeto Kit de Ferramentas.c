@@ -584,5 +584,6 @@ int main()
 		}
 	}
 	printf("Programa Encerrado\n"); //Encerra o programa
+	
 	return 0;
 }
